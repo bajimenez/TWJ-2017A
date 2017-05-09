@@ -38,11 +38,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TemplateStrins.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TemplateStrins.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02-javascript/TemplateStrings/TemplateStrins.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="630">
               <caret line="30" column="2" lean-forward="false" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FatArrowFunctions.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02-javascript/Fat Arrow Functions/FatArrowFunctions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -118,6 +128,7 @@
         <option value="$PROJECT_DIR$/02-javascript/SentenciasDeControl/sdc.js" />
         <option value="$PROJECT_DIR$/02-javascript/app.js" />
         <option value="$PROJECT_DIR$/02-javascript/TemplateStrings/TemplateStrins.js" />
+        <option value="$PROJECT_DIR$/02-javascript/Fat Arrow Functions/FatArrowFunctions.js" />
       </list>
     </option>
   </component>
@@ -345,12 +356,12 @@
       <workItem from="1493233096932" duration="3654000" />
       <workItem from="1493835347428" duration="6538000" />
       <workItem from="1494360980686" duration="825000" />
-      <workItem from="1494362463153" duration="2545000" />
+      <workItem from="1494362463153" duration="3286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14369000" />
+    <option name="totallyTimeSpent" value="15110000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -680,6 +691,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="30" column="2" lean-forward="false" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-javascript/Fat Arrow Functions/FatArrowFunctions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
           <folding />
         </state>
       </provider>
