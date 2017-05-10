@@ -25,4 +25,3 @@ var nuevaFuncion=(nombre,apellido)=>{
 }
 
 nuevaFuncion("h")
- 
