@@ -30,14 +30,20 @@ constructor(nombre?:string,apellido?:string,fechaNacimiento?:Date){
     this.fechaNacimiento=fechaNacimiento;
 
 }
-imprimirPersona(){
-    console.log(this.nombre)
+private imprimirNombre(nombre:String,apellido?:String):void{
+ if(apellido){console.log(nombre,apellido);
+ }else{
+     console.log(nombre);
+ }
 }
 
 
 }
-
+function SumarNumeros(numero1:number, numero2:number):number{
+    return numero1+numero2;
+}
 let adrian: persona =  new persona("Brayan","Jimenez");
 
 console.log(adrian.nombre)
 adrian.imprimirPersona();
+
